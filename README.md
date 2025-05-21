@@ -15,9 +15,6 @@ A serverless solution that automatically generates narrative videos from text pr
 - [Usage](#usage)
 - [Testing](#testing)
 - [Output Examples](#output-examples)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
