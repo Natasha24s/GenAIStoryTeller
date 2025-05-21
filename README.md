@@ -33,7 +33,7 @@ This pipeline automatically:
 
 ## Architecture
 
-![Architecture Diagram](path/to/architecture.png)
+![Architecture Diagram](https://github.com/Natasha24s/GenAIStoryTeller/blob/main/Architecture.png)
 
 ### Components Used
 - AWS Lambda
